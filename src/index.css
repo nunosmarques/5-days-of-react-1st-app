@@ -12,3 +12,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.first-div{
+  width: 35%;
+  margin-left: 25%;
+  border: 1px solid brown;
+  padding-left: 15%;
+}
+
+.first-div hr{
+  width: 55%;
+  margin-left: 0;
+}
+
+.menu{
+  display: inline-block;
+}
+
+.menu li a{
+  text-decoration: none;
+}
