@@ -2,11 +2,6 @@ import React, { Component } from 'react';
 
 
 class Gate extends Component {
-    
-
-    constructor(props) {
-        super(props);
-    }
 
     render() {
         const {isOpen} = this.props;
